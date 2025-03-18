@@ -1,0 +1,8 @@
+/* 폰트 정의 */
+@font-face {
+  font-family: 'OptimaLT'; /* 폰트 이름 */
+  src: url('https://github.com/lemonstudio-lab/fonts/raw/main/OptimaLTStd/OptimaLTStd-Medium.woff2') format('woff2'),
+       url('https://github.com/lemonstudio-lab/fonts/raw/main/OptimaLTStd/OptimaLTStd-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
